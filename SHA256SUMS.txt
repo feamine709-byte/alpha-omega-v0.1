@@ -1,0 +1,4 @@
+e3e615535a4fd9ee962e92e61e9be7e954d30c41bf652f0d23bf796a2baceb65  Anti-Matrix-v0.3.0-linux-x64.zip
+6232d057f0ad52542bb55c5632c7ea08a45168fac05333fe15adaa43f32c8bc8  Anti-Matrix-v0.3.0-macos-arm64.zip
+b2c81562c9bf27d2717236547453f68be7e56201a1e43cef380bf360bbbe4055  Anti-Matrix-v0.3.0-macos-x64.zip
+0b987cdb2406d6e52ead1b12f29cfe8d0da0bf0c0efe5b540cac29caa44db617  Anti-Matrix-v0.3.0-windows-x64.zip
